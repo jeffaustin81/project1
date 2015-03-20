@@ -1,1 +1,7 @@
-	This is my first git repository and a test to see if this works. I'm learning how to use git in an effort to prepare myself for a code school by the name of "Portland Code School", let's hope this works.
+	This is my first git repository and a test to see if this works. 
+	I'm learning how to use git in an effort to prepare myself for a
+	code school by the name of "Portland Code School", let's hope this works.
+	After doing some research I have decided to attend Epicodus instead of
+	Portland Code School. I love how open the program is and the value of 
+	the tuition pricing. And they do projects for non-profits, how cool is 
+	that!?
