@@ -1,5 +1,4 @@
 	This is the second text file I am creating. Testing edit on file2.txt...
-	After doing some research I have decided to attend Epicodus instead of
 	After doing some research I have decided to apply at Epicodus instead of
 	Portland Code School. I love how open the program is and the value of 
 	the tuition pricing. And they do projects for non-profits, how cool is 
