@@ -21,4 +21,6 @@
         
 				-file3.txt-
 
-	I got accepted into Epicodus! I will be learning PHP, Drupal, JavaScript, and    	AngularJS! I'm so excited. This is gonna be amazing! Stay tuned as I will be 		adding projects soon!
+	I got accepted into Epicodus! I will be learning PHP, Drupal, JavaScript, and    	
+	AngularJS! I'm so excited. This is gonna be amazing! Stay tuned as I will be 		
+	adding projects soon!
