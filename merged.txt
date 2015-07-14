@@ -1,6 +1,17 @@
-	This is my first git repository and a test to see if this works. 
+	
+
+
+        
+	This is a merged file of all three text files in this repository that 
+	I merged from the terminal and have edited. 
+
+				-file1.txt-
+
+        This is my first git repository and a test to see if this works. 
 	I'm learning how to use git in an effort to prepare myself for a
 	code school by the name of "Portland Code School", let's hope this works.
+
+				-file2.txt-
 
 	This is the second text file I am creating. Testing edit on file2.txt...
 	After doing some research I have decided to apply at Epicodus instead of
@@ -8,6 +19,6 @@
 	the tuition pricing. And they do projects for non-profits, how cool is 
 	that!?
         
-	I got accepted into Epicodus! 
-        I will be learning PHP, Drupal, JavaScript, and AngularJS! I'm so excited. 
-        This is gonna be amazing! Stay tuned as I will be adding projects soon!
+				-file3.txt-
+
+	I got accepted into Epicodus! I will be learning PHP, Drupal, JavaScript, and    	AngularJS! I'm so excited. This is gonna be amazing! Stay tuned as I will be 		adding projects soon!
